@@ -24,7 +24,7 @@ Highest_mark = max(marks)
 Lowest_mark = min(marks)
 
 
-def count_passed_failed(marks, pass_mark=50):
+def count_passed_failed(marks, pass_mark=50):   #function to count the number of students who passed and failed
     passed = 0
     failed = 0
 
