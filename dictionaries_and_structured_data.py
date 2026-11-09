@@ -14,7 +14,7 @@ student = {
 }
 
 # "name" → key
-# "Mary" → value
+# "Flonicah Phiri" → value
 # "age" → key
 # 26 → value
 # "mark" → key
@@ -26,3 +26,4 @@ student = {
 print(student["name"])
 print(student["age"])
 print(student["mark"])
+
