@@ -45,4 +45,5 @@ for mark in marks:
         print(mark, "Distinction")
     else:
         print(marks, "Credit")
-        
+
+#A Small Data Analysis Program in the other python file
